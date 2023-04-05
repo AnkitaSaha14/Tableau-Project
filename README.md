@@ -12,4 +12,5 @@ Description about the challenge :
 Things are going OK at Plato's, but there's room for improvement. Here's a collection of the transactional data for the past year, but haven't been able to put it to good use. Sharing an analysis of the data put together with a report to help Plato's find opportunities to drive more sales and work more efficiently.
 
 
+
  
