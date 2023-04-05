@@ -7,4 +7,5 @@ Steps followed:
 5) Once the files are related, moved on by creating new worksheet and came up with various visuals.
 6) While carrying out analysis, various data cleaning processes were carried out as per the requrimemt by using commands like TRIM, 
     TRANSFORM etc. to make data more readible.
-7) Used 'create calculated field' to create new data fields like revenue, average revenue, total orders etc for better inferences.
+7) Used 'create calculated field' to create new data fields like revenue, average revenue, total orders etc for better inferences: 
+![New fields](https://user-images.githubusercontent.com/128919598/230075081-603fada9-c881-4e73-aa56-c35107190383.jpeg)
