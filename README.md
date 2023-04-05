@@ -1,4 +1,4 @@
-# Tableau-Project : Maven Pizza Challenge
+# Tableau-Project : Maven Pizza Challenge: https://public.tableau.com/app/profile/ankita.saha1675/viz/wprstvsbestsellingpizza/PlatosPizza?publish=yes 
 Here's a challenge provided by Maven Analytics for setting up a data model and leveraging data analysis & visualization skills to bring the data underneath to life. 
 
 About dataset: The challenge dataset contains a year's worth of sales from a fictitious pizza place. 
