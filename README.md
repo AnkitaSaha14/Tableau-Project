@@ -15,4 +15,5 @@ Steps followed:
 1)Downloaded the dataset from maven's data playground
 2)Imported the dataset file(csv file) in Tableau Desktop 
 3) Data cleaning: Used data interpretor to clean the data files
-4) 
+4) Because there are 4 csv files, each related to each other, I tried creating a relationship among all the files: ![data relation](https://user-images.githubusercontent.com/128919598/230059195-077d28cd-654a-4225-9593-199dad5e49ff.jpeg)
+ 
